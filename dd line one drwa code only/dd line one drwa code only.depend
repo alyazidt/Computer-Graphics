@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1668576905 source:z:\cgprogram\dd line one drwa code only\main.cpp
+	<GL/glut.h>
+	<stdio.h>
+
+1599037370 c:\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1599037370 c:\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1668576905 source:c:\users\zahir\desktop\dd line one drwa code only\main.cpp
+	<GL/glut.h>
+	<stdio.h>
+
+1668576906 source:g:\computer graphics\cmgp\dd line one drwa code only\main.cpp
+	<GL/glut.h>
+	<stdio.h>
+
