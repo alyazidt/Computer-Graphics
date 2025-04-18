@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1672858976 source:g:\computer graphics\transformation_scaling\main.cpp
+	<GL/glut.h>
+	<stdio.h>
+
+1599037370 c:\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1599037370 c:\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
